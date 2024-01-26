@@ -38,7 +38,7 @@ project_entries:
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
     highlight: NEW
 
   - title: Cookie
@@ -54,14 +54,12 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/balagopalkv
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: linkedin
+    url: https://www.linkedin.com/in/balagopalkv/
 
   - title: feed
     url: feed.xml
@@ -97,5 +95,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
